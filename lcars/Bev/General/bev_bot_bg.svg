@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="69"
+   width="266"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="bev_bot_bg.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1744"
+     inkscape:window-height="857"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="1.4285714"
+     inkscape:cx="62.602231"
+     inkscape:cy="34.499992"
+     inkscape:window-x="378"
+     inkscape:window-y="523"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="New_bev_bot_bg_p" />
+  <g
+     inkscape:label="Original bev_bot_bg_n"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="Original_bev_bot_bg_n">
+    <image
+       sodipodi:absref="P:\tank\Projects\Chevy MyLink\theme\lcars\Bev\General\../../../BYOM/Bev/General/bev_bot_bg_n.bmp"
+       xlink:href="../../../BYOM/Bev/General/bev_bot_bg_n.bmp"
+       id="image2"
+       width="266"
+       height="69"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     inkscape:label="Original bev_bot_bg_p"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="Original_bev_bot_bg_p">
+    <image
+       sodipodi:absref="P:\tank\Projects\Chevy MyLink\theme\lcars\Bev\General\../../../BYOM/Bev/General/bev_bot_bg_p.bmp"
+       xlink:href="../../../BYOM/Bev/General/bev_bot_bg_p.bmp"
+       id="image5"
+       width="266"
+       height="69"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="background">
+    <rect
+       style="fill:#020202;fill-opacity:1;fill-rule:nonzero"
+       id="rect824"
+       width="266"
+       height="69"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:label="New bev_bot_bg_n"
+     inkscape:groupmode="layer"
+     id="New_bev_bot_bg_n">
+    <rect
+       style="fill:#a46700;fill-opacity:1;fill-rule:nonzero;stroke-width:0.8245973"
+       id="rect823"
+       width="250"
+       height="69"
+       x="8"
+       y="0"
+       ry="20" />
+  </g>
+  <g
+     inkscape:label="New bev_bot_bg_p"
+     inkscape:groupmode="layer"
+     id="New_bev_bot_bg_p"
+     style="display:inline">
+    <rect
+       style="fill:#f9a306;fill-opacity:1;fill-rule:nonzero;stroke-width:0.8245973"
+       id="rect825"
+       width="250"
+       height="69"
+       x="8"
+       y="0"
+       ry="20" />
+  </g>
+</svg>

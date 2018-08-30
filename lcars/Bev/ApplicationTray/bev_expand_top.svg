@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="65"
+   width="266"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="bev_expand_top.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1526"
+     inkscape:window-height="936"
+     id="namedview8"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="4.2958066"
+     inkscape:cx="146.4896"
+     inkscape:cy="41.286094"
+     inkscape:window-x="1462"
+     inkscape:window-y="300"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="New_bev_expand_top">
+    <sodipodi:guide
+       position="40,102.05446"
+       orientation="1,0"
+       id="guide822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="256,77.034653"
+       orientation="1,0"
+       id="guide824"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Original bev_expand_top_p"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="Original_bev_expand_top_p">
+    <image
+       sodipodi:absref="P:\tank\Projects\Chevy MyLink\theme\lcars\Bev\ApplicationTray\../../../BYOM/Bev/ApplicationTray/bev_expand_top_p.bmp"
+       xlink:href="../../../BYOM/Bev/ApplicationTray/bev_expand_top_p.bmp"
+       id="image2"
+       width="266"
+       height="65"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     inkscape:label="New bev_expand_top"
+     inkscape:groupmode="layer"
+     id="New_bev_expand_top">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero"
+       id="rect832"
+       width="266"
+       height="65"
+       x="0"
+       y="0" />
+    <path
+       style="fill:#9999cc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-opacity:1;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 55,3.9564122 h 186.00001 c 8.31,0 15,6.6899998 15,14.9999998 C 256.00002,42.189821 256,55.646075 256,61.562596 200.59331,61.709324 95.406885,61.257235 40,61.244799 l 0,-42.288387 c 0,-8.31 6.69,-14.9999998 15,-14.9999998 z"
+       id="rect833"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscccss" />
+  </g>
+</svg>
