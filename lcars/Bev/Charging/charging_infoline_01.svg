@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="2"
+   width="306"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="charging_infoline_01.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1473"
+     inkscape:window-height="710"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="1.3366013"
+     inkscape:cx="31.422982"
+     inkscape:cy="0.99999999"
+     inkscape:window-x="767"
+     inkscape:window-y="203"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="New_charging_infoline_01" />
+  <g
+     inkscape:label="Original charging_infoline_01"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="Original_charging_infoline_01">
+    <image
+       sodipodi:absref="P:\tank\Projects\Chevy MyLink\theme\lcars\Bev\Charging\../../../BYOM/Bev/Charging/charging_infoline_01.bmp"
+       xlink:href="../../../BYOM/Bev/Charging/charging_infoline_01.bmp"
+       x="0"
+       y="0"
+       height="2"
+       width="306"
+       id="image2" />
+  </g>
+  <g
+     inkscape:label="New charging_infoline_01"
+     inkscape:groupmode="layer"
+     id="New_charging_infoline_01"
+     style="display:inline" />
+</svg>

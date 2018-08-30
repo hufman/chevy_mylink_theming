@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="220"
+   width="306"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="charging_infobox_01.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1735"
+     inkscape:window-height="820"
+     id="namedview8"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.8994829"
+     inkscape:cx="57.44682"
+     inkscape:cy="77.131659"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="New_charging_infobox_01">
+    <sodipodi:guide
+       position="166.0292,36"
+       orientation="0,1"
+       id="guide824"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Original charging_infobox_01"
+     inkscape:groupmode="layer"
+     id="Original_charging_infobox_01"
+     transform="translate(0,106)"
+     style="display:none">
+    <image
+       sodipodi:absref="P:\tank\Projects\Chevy MyLink\theme\lcars\Bev\Charging\../../../BYOM/Bev/Charging/charging_infobox_01.bmp"
+       xlink:href="../../../BYOM/Bev/Charging/charging_infobox_01.bmp"
+       x="0"
+       y="0"
+       height="114"
+       width="306"
+       id="image2" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Background"
+     transform="translate(0,70)">
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect845"
+       width="306"
+       height="220"
+       x="0"
+       y="-70" />
+  </g>
+  <g
+     inkscape:label="New charging_infobox_01"
+     inkscape:groupmode="layer"
+     id="New_charging_infobox_01"
+     transform="translate(0,106)">
+    <path
+       style="fill:#6666ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00108171;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 88.55738,29.116433 h 204.93577 c 15.21407,0 14.37317,-21.6328372 0,-21.6328372 H 88.208841 c -15.789586,0 -24.406924,-6.85389305 -24.406924,-22.6684718 V -106 H 0 v 220 h 63.801917 l 0,-67.277825 c 0,-12.542724 8.786693,-17.605742 24.755463,-17.605742 z"
+       id="rect826"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccssccccss" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6579026;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect818"
+       width="4.0839281"
+       height="30.534626"
+       x="269.93802"
+       y="2.1274486" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect822"
+       width="73.704269"
+       height="3.6852136"
+       x="-2.1058364"
+       y="95.573929" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect827"
+       width="70.545517"
+       height="4.2116728"
+       x="-2.6322954"
+       y="-62.363789" />
+    <rect
+       style="fill:#ffcc58;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.94666517;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect829"
+       width="63.701546"
+       height="40.574749"
+       x="0"
+       y="54.999176" />
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.53064132;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect831"
+       width="64.754463"
+       height="4.2116666"
+       x="-1.0529186"
+       y="50.78751" />
+  </g>
+</svg>
