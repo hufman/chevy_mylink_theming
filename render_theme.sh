@@ -24,7 +24,8 @@ find . -name '*.svg' | while read path; do
     if grep -q "xlink:href.*bmp" "$path"; then
       bmppath=$(dirname "$path")/"$layername".bmp
       #convert -background '#910101' -transparent-color '#910101' <(hide_layers "$path" "$layername") gif:"$bmppath".gif
-      convert -background '#010105' <(hide_layers "$path" "$layername") -transparent-color '#010105' gif:- | convert gif:- -transparent '#010105' -background cyan -flatten -alpha off -compress none -type Palette -colors 256 BMP3:"$bmppath"
+      size=$(xmlstarlet sel -N svg="http://www.w3.org/2000/svg" -t -v "/svg:svg/@width" -o 'x' -v "/svg:svg/@height" "$path")
+      convert -verbose -density 90 -background '#010105' <(hide_layers "$path" "$layername") -transparent-color '#010105' gif:- | convert gif:- -transparent '#010105' -background cyan -flatten -alpha off -compress none -type Palette -colors 256 -gravity center -crop "$size+0+0" BMP3:"$bmppath"
     elif grep -q "xlink:href.*png" "$path"; then
       pngpath=$(dirname "$path")/"$layername".png
       convert <(hide_layers "$path" "$layername") "$pngpath"
