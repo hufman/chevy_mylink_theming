@@ -39,7 +39,7 @@ for i in `seq 0 14`; do
     charge_10.bmp -geometry +346+68 +composite \
     "$out"
 done
-# spin them again
+# go backwards
 for i in `seq 0 14`; do
   out=`printf 'output/%02i.bmp' "$frame"`; frame=$((frame+1))
   convert -size 800x334 canvas:black \
@@ -47,7 +47,7 @@ for i in `seq 0 14`; do
     bg_top.bmp -geometry +346+0 +composite \
     bg_bottom.bmp -geometry +346+198 +composite \
     bg_right.bmp -geometry +706+0 +composite \
-    `printf 'ani_left_%02i.bmp' "$i"` -geometry +76+0 +composite \
+    `printf 'ani_reverse_left_%02i.bmp' "$i"` -geometry +76+0 +composite \
     `printf 'ani_right_%02i.bmp' "$i"` -geometry +536+0 +composite \
     charge_10.bmp -geometry +346+68 +composite \
     "$out"
