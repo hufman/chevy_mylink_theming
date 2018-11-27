@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="66"
+   width="75"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="home_symbol_telephone.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="957"
+     inkscape:window-height="738"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="45.749554"
+     inkscape:cy="85.028832"
+     inkscape:window-x="1219"
+     inkscape:window-y="325"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Original_home_symbol_telephone"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="70.875,38.875"
+       orientation="1,0"
+       id="guide838"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="31.875,37.25"
+       orientation="1,0"
+       id="guide846"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Original home_symbol_telephone"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="Original_home_symbol_telephone"
+     transform="translate(0,-2)"
+     style="display:none">
+    <image
+       sodipodi:absref="P:\tank\Projects\Chevy MyLink\theme\lcars\home menu\../../BYOM/home menu/home_symbol_telephone.bmp"
+       xlink:href="../../BYOM/home menu/home_symbol_telephone.bmp"
+       id="image2"
+       width="51"
+       height="68"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     inkscape:label="New home_symbol_telephone"
+     inkscape:groupmode="layer"
+     id="New_home_symbol_telephone"
+     transform="translate(0,-2)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect836"
+       width="75"
+       height="66"
+       x="0"
+       y="2" />
+    <g
+       id="g834"
+       transform="translate(28)">
+      <path
+         sodipodi:nodetypes="ssssssccss"
+         inkscape:connector-curvature="0"
+         id="path822"
+         d="m 13.902914,17.576271 c -3.194789,-0.596306 -7.0054104,0.991707 -7.7072554,5.189934 -0.9181208,5.491922 0.4982832,12.554321 3.2543857,17.392508 2.9247857,5.1343 6.6968897,11.986968 12.7433837,12.677966 2.569372,0.29363 6.05659,-1.763965 6.584671,-4.29557 0.701563,-3.36327 -1.753743,-7.852312 -4.214168,-9.642804 -1.13073,-0.822851 -3.680346,0.357047 -3.680346,0.357047 L 16.217737,30.50617 c 0,0 2.896943,-3.022975 3.015685,-4.718034 0.212242,-3.029791 -2.344854,-7.654594 -5.330508,-8.211865 z"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ce6667;stroke-width:3;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="1.8760036"
+         rx="1.6992269"
+         cy="31.911016"
+         cx="26.724577"
+         id="path824"
+         style="opacity:1;fill:#ce6667;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="2.3050847"
+         rx="2.0889831"
+         cy="31.838984"
+         cx="32.775425"
+         id="path826"
+         style="opacity:1;fill:#ce6667;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="3.1694915"
+         rx="3.0974576"
+         cy="32.127117"
+         cx="39.114407"
+         id="path828"
+         style="opacity:1;fill:#ce6667;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="display:inline;opacity:1;fill:#ce6667;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 27,11 C 15.223259,11 2,22.116807 2,36 2,49.883193 15.206509,61 27,61 Z"
+       id="path833"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcc" />
+  </g>
+</svg>

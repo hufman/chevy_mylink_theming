@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="66"
+   width="75"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="home_symbol_climatesetting.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1513"
+     inkscape:window-height="859"
+     id="namedview8"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="10.11377"
+     inkscape:cx="49.211281"
+     inkscape:cy="32.90188"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="New_home_symbol_climatesetting">
+    <sodipodi:guide
+       position="13.856406,38"
+       orientation="0,1"
+       id="guide4523"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="39.837169,43"
+       orientation="0,1"
+       id="guide4525"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="39.837169,19"
+       orientation="0,1"
+       id="guide4527"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="69.950212,37.020127"
+       orientation="1,0"
+       id="guide4531"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="32.628783,34.210785"
+       orientation="1,0"
+       id="guide4533"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Original home_symbol_climatesetting"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="Original_home_symbol_climatesetting">
+    <image
+       sodipodi:absref="P:\tank\Projects\Chevy MyLink\theme\lcars\home menu\../../BYOM/home menu/home_symbol_climatesetting.bmp"
+       xlink:href="../../BYOM/home menu/home_symbol_climatesetting.bmp"
+       id="image2"
+       width="51"
+       height="66"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     inkscape:label="New home_symbol_climatesetting"
+     inkscape:groupmode="layer"
+     id="New_home_symbol_climatesetting">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4529"
+       width="75"
+       height="66"
+       x="0"
+       y="0" />
+    <path
+       style="display:inline;opacity:1;fill:#9a99ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 27,9 C 15.223259,9 2,20.116807 2,34 2,47.883193 15.206509,59 27,59 Z"
+       id="path833"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#9a99ff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 39.580568,21.296296 V 46.333333 M 34.576866,29.962963 56.259577,17.444444 m -10.007405,0 21.682709,12.518519 M 62.931178,21.296296 V 46.333333 M 67.934881,37.666666 45.649653,50.533049 M 56.259577,50.185185 34.576866,37.666666 m 5.003702,2.888889 -6.671603,3.851851 m 0,-21.185185 6.671604,3.851853 M 51.255873,12.62963 v 7.703703 m 18.346908,2.888888 -6.671603,3.851853 m 6.671603,17.333332 -6.671603,-3.851851 M 51.255873,55 v -7.703704"
+       id="path830"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccccccccc" />
+  </g>
+</svg>

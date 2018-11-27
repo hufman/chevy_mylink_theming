@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="66"
+   width="76"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="home_symbol_batteryinfo.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1477"
+     inkscape:window-height="587"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="7.1515152"
+     inkscape:cx="59.963075"
+     inkscape:cy="28.107341"
+     inkscape:window-x="1178"
+     inkscape:window-y="111"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="New_home_symbol_batteryinfo"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="28.871529,57"
+       orientation="0,1"
+       id="guide_top"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.815284,7"
+       orientation="0,1"
+       id="guide_bottom"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="2,33"
+       orientation="1,0"
+       id="guide_left"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="27,33"
+       orientation="1,0"
+       id="guide_right"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     inkscape:label="Original home_symbol_batteryinfo"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true"
+     id="Original_home_symbol_batteryinfo">
+    <image
+       sodipodi:absref="P:\tank\Projects\Chevy MyLink\theme\lcars\home menu\../../BYOM/home menu/home_symbol_batteryinfo.bmp"
+       xlink:href="../../BYOM/home menu/home_symbol_batteryinfo.bmp"
+       id="image2"
+       width="51"
+       height="66"
+       y="0"
+       x="0" />
+  </g>
+  <g
+     inkscape:label="New home_symbol_batteryinfo"
+     inkscape:groupmode="layer"
+     id="New_home_symbol_batteryinfo"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 H 76 V 66 H 0 Z"
+       id="rect827"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <g
+       id="g831"
+       transform="translate(27.569599,4)">
+      <path
+         sodipodi:nodetypes="sssccsss"
+         inkscape:connector-curvature="0"
+         id="path14"
+         d="M 4.4745763,18.737288 C 4.2023359,17.915079 5.2514416,17.943016 5.896509,18.25387 c 8.40984,4.05265 15.505399,2.383599 25.145864,4.957994 6.101987,1.629478 10.11858,14.449153 12.025424,25.449153 l -2.586864,0.419491 c 0,0 -1.056142,-9.179874 -4.474577,-9.228814 C 32.744065,39.80499 19.326142,38.603207 15.521186,35.93644 7.5365158,30.340251 6.5230179,24.923904 4.4745763,18.737288 Z"
+         style="display:inline;opacity:1;fill:#17bf13;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cssccccccc"
+         inkscape:connector-curvature="0"
+         id="path821"
+         d="m 8.6021338,22.396081 c 1.5820012,2.641709 6.0510872,4.804323 9.4920092,5.63588 3.587619,0.867009 7.442129,0.723809 10.876262,2.076377 2.936939,1.156743 7.688742,5.399263 8.30054,7.540557 M 12.656013,28.724087 c 2.535688,-0.97641 2.649633,-3.653192 1.285376,-5.339255 m 3.262879,8.898759 c 5.646028,-1.255062 5.942508,-4.400481 2.669627,-8.107759 m 6.229132,11.370637 c 8.080115,-2.036762 6.908555,-5.7298 1.779751,-10.184135"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       style="opacity:1;fill:#17bf13;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 27,9 C 15.223259,9 2,20.116807 2,34 2,47.883193 15.206509,59 27,59 Z"
+       id="path833"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcc" />
+  </g>
+</svg>
